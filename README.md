@@ -126,6 +126,6 @@ Make sure:
 
 **A. Dhanvanth**
 
-Third-Year Electronics and Communication Engineering (ECE)
+Second-Year Electronics and Communication Engineering (ECE)
 
 Interested in Computer Vision, Artificial Intelligence, Embedded Systems, and Real-Time Safety Applications.
